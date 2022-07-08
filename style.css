@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(136, 212, 231);
+    text-align: center;
+ 
+}
+.headings{
+    padding-top: 20%;
+    
+}
+hr{
+    width: 30%;
+}
+#attemptLabel{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
